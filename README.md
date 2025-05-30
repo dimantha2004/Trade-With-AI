@@ -1,4 +1,4 @@
-# Trade With AI 🧠📈
+# TradeSense AI 🧠📈
 
 **AI-powered trading insights and analysis at your fingertips.**  
 Built to simplify your trading decisions through cutting-edge AI predictions and clean data visualizations.
@@ -25,12 +25,5 @@ Built to simplify your trading decisions through cutting-edge AI predictions and
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots here (optional, for better visual impression)_  
-> Example:
-> ![Home Page](https://user-images.githubusercontent.com/your-screenshot-link.png)
-
----
 
 
